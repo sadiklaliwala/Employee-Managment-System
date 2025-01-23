@@ -1,13 +1,13 @@
-This is Project Made for Practise the React 
+This is Project Made for Practise the React.
 React is used as Frontend and backend both 
-for storing Data browser localstorage is used 
-in this project reacts usestates , usecontext ,useEffect is mostly used 
-javascript localstorage is used 
-
+for storing Data browsers localstorage is used. 
+in this project reacts topic :- usestates , usecontext ,useEffect is mostly used 
 
 Funtonality ;
   1) Login of Employee And Admin is dynaminc
-  2) all the Data is comming dynamically 
+  2) all the Data is comming dynamically
+  3) admin can see Employees name and how Many task they have completed , active , NewTask or failed.
+  4) Employee can see which task Have been given by Admin  
 
 
 
